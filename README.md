@@ -18,5 +18,3 @@ Sound Artist: Pınar Karabaş
 
 Level Designer:
 -Oğuzhan Delibaş, Abdulsamet İçim
-
-https://ldjam.com/events/ludum-dare/48/robofind
